@@ -48,6 +48,8 @@ const sander = {
   <img alt="Springboot" src="https://img.shields.io/badge/-Springboot-6AAC3D?style=flat-square&logo=spring&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij%20Idea-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
 <!--
