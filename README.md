@@ -16,7 +16,7 @@ const sander = {
                 2018: "mechanical engineering",
                 2020: "software engineering",
                 2022: "systems analysis and development",
-              } 
+              }, 
   code: [Javascript, Typescript, HTML, CSS, Java],
   architecture: ["microservices", "design system pattern"],
   challenge: "I am doing my own design system for React"
