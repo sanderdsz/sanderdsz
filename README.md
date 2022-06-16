@@ -1,7 +1,7 @@
 ### Hi there, nice to see you 👋
 
 <img align='right' src="https://media1.giphy.com/media/SYRWrpZ0N6nhKkWTui/giphy.gif" width="320">
-<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Fullstack Developer at <a href="https://www.betha.com.br">Betha</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Frontend Engineer at <a href="https://www.global.ntt/">NTT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: sanderdsz](https://img.shields.io/twitter/follow/sanderdsz?style=social)](https://twitter.com/sanderdsz)
