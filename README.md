@@ -1,12 +1,13 @@
 ### Hi there, nice to see you 👋
 
-<img align='right' src="https://media1.giphy.com/media/SYRWrpZ0N6nhKkWTui/giphy.gif" width="320">
-<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Frontend Engineer at <a href="https://www.global.ntt/">NTT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Frontend Engineer at <a href="https://www.global.ntt/">NTT DATA</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: sanderdsz](https://img.shields.io/twitter/follow/sanderdsz?style=social)](https://twitter.com/sanderdsz)
 [![Linkedin: sandersz](https://img.shields.io/badge/-sandersz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandersz/)](https://www.linkedin.com/in/sandersz/)
 [![GitHub Sander](https://img.shields.io/github/followers/sanderdsz?label=follow&style=social)](https://github.com/sanderdsz)
+
+<img align='right' src="https://media1.giphy.com/media/SYRWrpZ0N6nhKkWTui/giphy.gif" width="320">
 
 ```javascript
 const sander = {
