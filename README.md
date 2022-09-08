@@ -1,14 +1,16 @@
-### Hi there, nice to see you 👋
+### Hi there, I'm Sander dos Santos Zuchinalli.
 
-<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Frontend Engineer at <a href="https://www.global.ntt/">NTT DATA</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Software Enginner at <a href="https://www.global.ntt/">NTT DATA</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+My speciality includes quickly learning new technologies, problem solving, responsible design principles, UI/UX optimizations and trying my best with all those clean code patterns out there. So far I worked and have Java, Spring Boot, Javascript, SASS, AngularJS, Angular 2+, VueJS and PostgreSQL under my toolbelt. I'm always trying to learn more, a new programming language, a framework or even a programming principle, just to improve all my previous skills and integrate even more code into my head.
 
 [![Twitter: sanderdsz](https://img.shields.io/twitter/follow/sanderdsz?style=social)](https://twitter.com/sanderdsz)
 [![Linkedin: sandersz](https://img.shields.io/badge/-sandersz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandersz/)](https://www.linkedin.com/in/sandersz/)
 [![GitHub Sander](https://img.shields.io/github/followers/sanderdsz?label=follow&style=social)](https://github.com/sanderdsz)
 
-<img align='right' src="https://media1.giphy.com/media/SYRWrpZ0N6nhKkWTui/giphy.gif" width="320">
-
+<!-- <img align='right' src="https://media1.giphy.com/media/SYRWrpZ0N6nhKkWTui/giphy.gif" width="320"> -->
+<!--
 ```javascript
 const sander = {
   city: "Criciúma",
@@ -23,6 +25,7 @@ const sander = {
   challenge: "I am doing my own design system for React"
 }
 ```
+-->
 
 <h3>Things I code with</h3>
 <p>
