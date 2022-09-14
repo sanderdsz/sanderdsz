@@ -28,6 +28,20 @@ const sander = {
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 07 July 2022 - To: 14 September 2022
+
+Total Time: 76 hrs 27 mins
+
+TypeScript   68 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>---   88.96 %
+JavaScript   2 hrs 38 mins   >------------------------   03.46 %
+JSON         2 hrs 35 mins   >------------------------   03.39 %
+CSS          1 hr 2 mins     -------------------------   01.37 %
+YAML         57 mins         -------------------------   01.25 %
+Other        22 mins         -------------------------   00.49 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3>Things I code with</h3>
