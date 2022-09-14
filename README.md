@@ -19,13 +19,16 @@ const sander = {
                 2018: "mechanical engineering",
                 2020: "software engineering",
                 2022: "systems analysis and development",
-              }, 
+              },
   code: [Javascript, Typescript, HTML, CSS, Java],
   architecture: ["microservices", "design system pattern"],
   challenge: "I am doing my own design system for React"
 }
 ```
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>Things I code with</h3>
 <p>
@@ -59,5 +62,5 @@ const sander = {
 <!--
 ![Sander's Github Stats](https://github-readme-stats.vercel.app/api?username=sanderdsz&count_private=true&show_icons=true&include_all_commits=true)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderdsz&hide=TeX&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderdsz&hide=TeX&layout=compact)
