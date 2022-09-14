@@ -43,7 +43,7 @@ Other        22 mins         -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
-
+<!--
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -72,7 +72,7 @@ Other        22 mins         -------------------------   00.49 %
   <img alt="Intellij Idea" src="https://img.shields.io/badge/-Intellij%20Idea-000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
-
+-->
 <!--
 ![Sander's Github Stats](https://github-readme-stats.vercel.app/api?username=sanderdsz&count_private=true&show_icons=true&include_all_commits=true)
 -->
