@@ -1,6 +1,6 @@
 ### Hi there, I'm Sander dos Santos Zuchinalli.
 
-<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Software Enginner at <a href="https://www.global.ntt/">NTT DATA</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><!--Software Enginner at <a href="http://www.esucri.com.br">ESUCRI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>-->Software Developer at <a href="https://www.jobsity.com/">Jobsity</a> and <a href="https://www.mheducation.com/">McGraw Hill</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 My speciality includes quickly learning new technologies, problem solving, responsible design principles, UI/UX optimizations and trying my best with all those clean code patterns out there. So far I worked and have Java, Spring Boot, Javascript, SASS, AngularJS, Angular 2+, VueJS and PostgreSQL under my toolbelt. I'm always trying to learn more, a new programming language, a framework or even a programming principle, just to improve all my previous skills and integrate even more code into my head.
