@@ -30,7 +30,7 @@ const sander = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2022 - To: 22 September 2024
+From: 07 July 2022 - To: 23 September 2024
 
 Total Time: 875 hrs 47 mins
 
