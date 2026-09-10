@@ -30,15 +30,15 @@ const sander = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2022 - To: 08 September 2026
+From: 07 July 2022 - To: 09 September 2026
 
-Total Time: 1,876 hrs 52 mins
+Total Time: 1,877 hrs 32 mins
 
-TypeScript           663 hrs 5 mins        ████████▓░░░░░░░░░░░░░░░░   35.33 %
-Java                 440 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-JavaScript           224 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-HTML                 203 hrs 35 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-SCSS                 70 hrs 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+TypeScript           663 hrs 5 mins        ████████▓░░░░░░░░░░░░░░░░   35.32 %
+Java                 440 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+JavaScript           224 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+HTML                 203 hrs 40 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+SCSS                 70 hrs 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
